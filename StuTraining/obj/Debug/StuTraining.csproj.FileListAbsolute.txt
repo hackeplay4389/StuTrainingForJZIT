@@ -1,0 +1,15 @@
+E:\MyProject\StuTraining\StuTraining\bin\Debug\StuTraining.exe
+E:\MyProject\StuTraining\StuTraining\bin\Debug\StuTraining.pdb
+E:\MyProject\StuTraining\StuTraining\obj\Debug\StuTraining.About.resources
+E:\MyProject\StuTraining\StuTraining\obj\Debug\StuTraining.Liver.resources
+E:\MyProject\StuTraining\StuTraining\obj\Debug\StuTraining.Login.resources
+E:\MyProject\StuTraining\StuTraining\obj\Debug\StuTraining.Main.resources
+E:\MyProject\StuTraining\StuTraining\obj\Debug\StuTraining.Nine.resources
+E:\MyProject\StuTraining\StuTraining\obj\Debug\StuTraining.Properties.Resources.resources
+E:\MyProject\StuTraining\StuTraining\obj\Debug\StuTraining.csproj.GenerateResource.Cache
+E:\MyProject\StuTraining\StuTraining\obj\Debug\StuTraining.exe
+E:\MyProject\StuTraining\StuTraining\obj\Debug\StuTraining.pdb
+E:\MyProject\StuTraining\StuTraining\obj\Debug\StuTraining.csprojResolveAssemblyReference.cache
+E:\MyProject\StuTraining\StuTraining\bin\Debug\Microsoft.VisualBasic.dll
+E:\MyProject\StuTraining\StuTraining\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\MyProject\StuTraining\StuTraining\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll

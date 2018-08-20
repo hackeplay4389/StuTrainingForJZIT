@@ -1,0 +1,4 @@
+Left Arrow	37	
+Up Arrow	38
+Right Arrow	39
+Dw Arrow	40

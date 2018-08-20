@@ -1,0 +1,14 @@
+E:\MyProject\StuTraining\StuTraining\bin\Release\StuTraining.exe
+E:\MyProject\StuTraining\StuTraining\bin\Release\StuTraining.pdb
+E:\MyProject\StuTraining\StuTraining\bin\Release\Microsoft.VisualBasic.dll
+E:\MyProject\StuTraining\StuTraining\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\MyProject\StuTraining\StuTraining\bin\Release\zh-Hans\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+E:\MyProject\StuTraining\StuTraining\obj\Release\StuTraining.About.resources
+E:\MyProject\StuTraining\StuTraining\obj\Release\StuTraining.Liver.resources
+E:\MyProject\StuTraining\StuTraining\obj\Release\StuTraining.Login.resources
+E:\MyProject\StuTraining\StuTraining\obj\Release\StuTraining.Main.resources
+E:\MyProject\StuTraining\StuTraining\obj\Release\StuTraining.Nine.resources
+E:\MyProject\StuTraining\StuTraining\obj\Release\StuTraining.Properties.Resources.resources
+E:\MyProject\StuTraining\StuTraining\obj\Release\StuTraining.csproj.GenerateResource.Cache
+E:\MyProject\StuTraining\StuTraining\obj\Release\StuTraining.exe
+E:\MyProject\StuTraining\StuTraining\obj\Release\StuTraining.pdb
